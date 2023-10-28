@@ -242,4 +242,4 @@ def main():
 if __name__ == "__main__":
   while True:
     check_time()
-    time.sleep(60)  # Wait for 60 seconds before checking again
+    # time.sleep(60)  # Wait for 60 seconds before checking again
