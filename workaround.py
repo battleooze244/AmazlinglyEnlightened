@@ -19,4 +19,4 @@ def update_executable_path():
   #     print(line, end='')
   #     # if "update_executable_path():" in line:
   #     #   remove = True
-  print("Executable path updated successfully.")
+  # print("Executable path updated successfully.")
