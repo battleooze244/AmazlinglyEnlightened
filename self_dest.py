@@ -74,5 +74,5 @@ def remove_update_executable_path():
 #       if "def update_executable_path():" in line:
 #         remove = True
 
-# elif "update_executable_path():" in file:
-#   remove = True
+elif "update_executable_path():" in file:
+  remove = True

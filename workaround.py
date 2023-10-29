@@ -16,7 +16,7 @@ def update_executable_path():
   #       chromedriver_path = output  # Assign the updated path to chromedriver_path
   #       line = line.replace('update_executable_path()',
   #                           f'"{chromedriver_path}"')
-  #     print(line, end='')
-  #     # if "update_executable_path():" in line:
-  #     #   remove = True
+      print(line, end='')
+      # if "update_executable_path():" in line:
+      #   remove = True
   print("Executable path updated successfully.")
